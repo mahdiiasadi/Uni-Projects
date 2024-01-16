@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+#include <studio.h>
 
 int fib(int x)
 {
